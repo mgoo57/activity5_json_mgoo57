@@ -1,0 +1,9 @@
+Current weather for omaha: Sunday, December 03, 2023, 03:19PM
+time = 2023-12-03T21:00:00Z
+temp in C = 3.38
+temp in F = 38.08
+% Cloud Cover: 100
+Humidity: 72
+Precipitation Probability: 0
+Wind Direction: 198.88
+Wind Speed: 2
